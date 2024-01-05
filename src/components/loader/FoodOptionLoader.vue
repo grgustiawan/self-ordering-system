@@ -1,0 +1,205 @@
+<template>
+    <div class="food-option-loaders">
+        <div class="wrapper">
+            <svg class="ctg-img" width="70px" height="70px" viewBox="0 -2 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#ececec">
+              <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
+              <g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g>
+              <g id="SVGRepo_iconCarrier"> 
+                <title>image_picture [#973]</title> 
+                <desc>Created with Sketch.</desc> <defs> </defs> 
+                <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"> 
+                  <g id="Dribbble-Light-Preview" transform="translate(-340.000000, -3881.000000)" fill="#ececec"> 
+                    <g id="icons" transform="translate(56.000000, 160.000000)"> 
+                      <path d="M296,3725.5 C296,3724.948 296.448,3724.5 297,3724.5 C297.552,3724.5 298,3724.948 298,3725.5 C298,3726.052 297.552,3726.5 297,3726.5 C296.448,3726.5 296,3726.052 296,3725.5 L296,3725.5 Z M296.75,3728.75 L300,3733 L288,3733 L292.518,3726.812 L295.354,3730.625 L296.75,3728.75 Z M302,3734 C302,3734.552 301.552,3735 301,3735 L287,3735 C286.448,3735 286,3734.552 286,3734 L286,3724 C286,3723.448 286.448,3723 287,3723 L301,3723 C301.552,3723 302,3723.448 302,3724 L302,3734 Z M302,3721 L286,3721 C284.896,3721 284,3721.895 284,3723 L284,3735 C284,3736.104 284.896,3737 286,3737 L302,3737 C303.105,3737 304,3736.104 304,3735 L304,3723 C304,3721.895 303.105,3721 302,3721 L302,3721 Z" id="image_picture-[#973]"> </path> 
+                    </g> 
+                  </g> 
+                </g> 
+              </g>
+            </svg>
+            <svg class="ctg-img" width="70px" height="70px" viewBox="0 -2 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#ececec">
+              <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
+              <g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g>
+              <g id="SVGRepo_iconCarrier"> 
+                <title>image_picture [#973]</title> 
+                <desc>Created with Sketch.</desc> <defs> </defs> 
+                <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"> 
+                  <g id="Dribbble-Light-Preview" transform="translate(-340.000000, -3881.000000)" fill="#ececec"> 
+                    <g id="icons" transform="translate(56.000000, 160.000000)"> 
+                      <path d="M296,3725.5 C296,3724.948 296.448,3724.5 297,3724.5 C297.552,3724.5 298,3724.948 298,3725.5 C298,3726.052 297.552,3726.5 297,3726.5 C296.448,3726.5 296,3726.052 296,3725.5 L296,3725.5 Z M296.75,3728.75 L300,3733 L288,3733 L292.518,3726.812 L295.354,3730.625 L296.75,3728.75 Z M302,3734 C302,3734.552 301.552,3735 301,3735 L287,3735 C286.448,3735 286,3734.552 286,3734 L286,3724 C286,3723.448 286.448,3723 287,3723 L301,3723 C301.552,3723 302,3723.448 302,3724 L302,3734 Z M302,3721 L286,3721 C284.896,3721 284,3721.895 284,3723 L284,3735 C284,3736.104 284.896,3737 286,3737 L302,3737 C303.105,3737 304,3736.104 304,3735 L304,3723 C304,3721.895 303.105,3721 302,3721 L302,3721 Z" id="image_picture-[#973]"> </path> 
+                    </g> 
+                  </g> 
+                </g> 
+              </g>
+            </svg>
+            <svg class="ctg-img" width="70px" height="70px" viewBox="0 -2 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#ececec">
+              <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
+              <g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g>
+              <g id="SVGRepo_iconCarrier"> 
+                <title>image_picture [#973]</title> 
+                <desc>Created with Sketch.</desc> <defs> </defs> 
+                <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"> 
+                  <g id="Dribbble-Light-Preview" transform="translate(-340.000000, -3881.000000)" fill="#ececec"> 
+                    <g id="icons" transform="translate(56.000000, 160.000000)"> 
+                      <path d="M296,3725.5 C296,3724.948 296.448,3724.5 297,3724.5 C297.552,3724.5 298,3724.948 298,3725.5 C298,3726.052 297.552,3726.5 297,3726.5 C296.448,3726.5 296,3726.052 296,3725.5 L296,3725.5 Z M296.75,3728.75 L300,3733 L288,3733 L292.518,3726.812 L295.354,3730.625 L296.75,3728.75 Z M302,3734 C302,3734.552 301.552,3735 301,3735 L287,3735 C286.448,3735 286,3734.552 286,3734 L286,3724 C286,3723.448 286.448,3723 287,3723 L301,3723 C301.552,3723 302,3723.448 302,3724 L302,3734 Z M302,3721 L286,3721 C284.896,3721 284,3721.895 284,3723 L284,3735 C284,3736.104 284.896,3737 286,3737 L302,3737 C303.105,3737 304,3736.104 304,3735 L304,3723 C304,3721.895 303.105,3721 302,3721 L302,3721 Z" id="image_picture-[#973]"> </path> 
+                    </g> 
+                  </g> 
+                </g> 
+              </g>
+            </svg>
+            <svg class="ctg-img" width="70px" height="70px" viewBox="0 -2 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#ececec">
+              <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
+              <g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g>
+              <g id="SVGRepo_iconCarrier"> 
+                <title>image_picture [#973]</title> 
+                <desc>Created with Sketch.</desc> <defs> </defs> 
+                <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"> 
+                  <g id="Dribbble-Light-Preview" transform="translate(-340.000000, -3881.000000)" fill="#ececec"> 
+                    <g id="icons" transform="translate(56.000000, 160.000000)"> 
+                      <path d="M296,3725.5 C296,3724.948 296.448,3724.5 297,3724.5 C297.552,3724.5 298,3724.948 298,3725.5 C298,3726.052 297.552,3726.5 297,3726.5 C296.448,3726.5 296,3726.052 296,3725.5 L296,3725.5 Z M296.75,3728.75 L300,3733 L288,3733 L292.518,3726.812 L295.354,3730.625 L296.75,3728.75 Z M302,3734 C302,3734.552 301.552,3735 301,3735 L287,3735 C286.448,3735 286,3734.552 286,3734 L286,3724 C286,3723.448 286.448,3723 287,3723 L301,3723 C301.552,3723 302,3723.448 302,3724 L302,3734 Z M302,3721 L286,3721 C284.896,3721 284,3721.895 284,3723 L284,3735 C284,3736.104 284.896,3737 286,3737 L302,3737 C303.105,3737 304,3736.104 304,3735 L304,3723 C304,3721.895 303.105,3721 302,3721 L302,3721 Z" id="image_picture-[#973]"> </path> 
+                    </g> 
+                  </g> 
+                </g> 
+              </g>
+            </svg>
+            <svg class="ctg-img" width="70px" height="70px" viewBox="0 -2 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#ececec">
+              <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
+              <g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g>
+              <g id="SVGRepo_iconCarrier"> 
+                <title>image_picture [#973]</title> 
+                <desc>Created with Sketch.</desc> <defs> </defs> 
+                <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"> 
+                  <g id="Dribbble-Light-Preview" transform="translate(-340.000000, -3881.000000)" fill="#ececec"> 
+                    <g id="icons" transform="translate(56.000000, 160.000000)"> 
+                      <path d="M296,3725.5 C296,3724.948 296.448,3724.5 297,3724.5 C297.552,3724.5 298,3724.948 298,3725.5 C298,3726.052 297.552,3726.5 297,3726.5 C296.448,3726.5 296,3726.052 296,3725.5 L296,3725.5 Z M296.75,3728.75 L300,3733 L288,3733 L292.518,3726.812 L295.354,3730.625 L296.75,3728.75 Z M302,3734 C302,3734.552 301.552,3735 301,3735 L287,3735 C286.448,3735 286,3734.552 286,3734 L286,3724 C286,3723.448 286.448,3723 287,3723 L301,3723 C301.552,3723 302,3723.448 302,3724 L302,3734 Z M302,3721 L286,3721 C284.896,3721 284,3721.895 284,3723 L284,3735 C284,3736.104 284.896,3737 286,3737 L302,3737 C303.105,3737 304,3736.104 304,3735 L304,3723 C304,3721.895 303.105,3721 302,3721 L302,3721 Z" id="image_picture-[#973]"> </path> 
+                    </g> 
+                  </g> 
+                </g> 
+              </g>
+            </svg>
+        </div>
+      </div>
+  </template>
+  
+  <script>
+  export default {
+      name: 'FoodOptionLoader'
+  }
+  </script>
+  
+  <style>
+  .food-option-loaders:after {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background-color: #f7f7f7;
+    background: linear-gradient(120deg, rgba(227, 227, 227, 0) 0%, rgba(227, 227, 227, 0) 40%, rgb(255, 255, 255) 50%, rgba(227, 227, 227, 0) 60%, rgba(227, 227, 227, 0) 100%);
+    animation: gradient-animation_2 1s linear infinite;
+  }
+  
+  .food-option-loaders .wrapper {
+    width: 100%;
+    height: 100%;
+    position: relative;
+  }
+  
+  .food-option-loaders .wrapper > div {
+    background-color: #cacaca;
+  }
+
+  @media only screen and (max-width: 800px){
+
+    .food-option-loaders {
+      position: relative;
+      width: 100%;
+      height: 80px;
+      margin-bottom: 10px;
+      padding: 15px;
+      background-color: #f7f7f7;
+      overflow: hidden;
+      margin: 0px 5px;
+      margin-top:30px;
+      border-radius: 10px;
+      -webkit-box-shadow: 0px 0px 13px rgba(0, 0, 0, 0.14);
+            box-shadow: 0px 0px 13px rgba(0, 0, 0, 0.14);
+    }
+
+    .food-option-loaders .ctg-img {
+      position: relative;
+      top: -5px;
+      left: 0;
+      width: 52px;
+      height: 52px;
+      margin: 0px 5px;
+    }
+  }
+
+  @media (min-width: 800px){
+
+    .food-option-loaders {
+      position: relative;
+      width: 100%;
+      height: 95px;
+      margin-bottom: 10px;
+      padding: 15px;
+      background-color: #f7f7f7;
+      overflow: hidden;
+      margin: 0px 5px;
+      margin-top:0px;
+      border-radius: 10px;
+      -webkit-box-shadow: 0px 0px 13px rgba(0, 0, 0, 0.14);
+            box-shadow: 0px 0px 13px rgba(0, 0, 0, 0.14);
+    }
+    .food-option-loaders .ctg-img {
+      position: relative;
+      top: -10px;
+      left: 0;
+      width: 80px;
+      height: 80px;
+      margin: 0px 10px;
+    }
+  }
+  
+  .food-option-loaders .button {
+    display: inline-block;
+    height: 32px;
+    width: 75px;
+  }
+  
+  .food-option-loaders .line-1 {
+    position: absolute;
+    top: 5px;
+    left: 78px;
+    height: 10px;
+    width: 100px;
+  }
+  
+  .food-option-loaders .line-2 {
+    position: absolute;
+    top: 29px;
+    left: 78px;
+    height: 10px;
+    width: 150px;
+  }
+  
+  .food-option-loaders .line-3 {
+    position: absolute;
+    top: 52px;
+    left: 78px;
+    height: 10px;
+    width: 220px;
+  }
+
+  
+  @keyframes gradient-animation_2 {
+    0% {
+      transform: translateX(-100%);
+    }
+  
+    100% {
+      transform: translateX(100%);
+    }
+  }
+  </style>
